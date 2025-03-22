@@ -1,0 +1,13 @@
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\HelloWorldApp.exe
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\publish\web.config
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\appsettings.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\publish\appsettings.Development.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\publish\appsettings.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\publish\HelloWorldApp.deps.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\publish\HelloWorldApp.runtimeconfig.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\publish\HelloWorldApp.staticwebassets.endpoints.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\HelloWorldApp.dll
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\HelloWorldApp.deps.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\HelloWorldApp.runtimeconfig.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\bin\Release\net9.0\publish\HelloWorldApp.pdb

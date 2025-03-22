@@ -1,0 +1,7 @@
+C:\Users\nitirpud\Desktop\HelloWorldApp\publish\HelloWorldApp.exe
+C:\Users\nitirpud\Desktop\HelloWorldApp\publish\appsettings.Development.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\publish\appsettings.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\publish\HelloWorldApp.dll
+C:\Users\nitirpud\Desktop\HelloWorldApp\publish\HelloWorldApp.deps.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\publish\HelloWorldApp.runtimeconfig.json
+C:\Users\nitirpud\Desktop\HelloWorldApp\publish\HelloWorldApp.pdb

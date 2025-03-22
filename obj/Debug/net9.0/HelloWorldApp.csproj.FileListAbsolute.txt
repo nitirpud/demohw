@@ -1,0 +1,2 @@
+C:\Users\nitirpud\desktop\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.exe
+C:\Users\nitirpud\desktop\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.dll
